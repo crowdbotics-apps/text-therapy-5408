@@ -1,0 +1,1 @@
+web: waitress-serve --port=$PORT text_therapy_5408.wsgi:application

@@ -1,0 +1,3 @@
+rootProject.name = 'text_therapy_5408'
+
+include ':app'
